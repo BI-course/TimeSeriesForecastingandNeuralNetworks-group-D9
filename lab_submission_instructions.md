@@ -11,42 +11,42 @@
 **Member 1**
 
 | **Details**                                                                                        | **Comment** |
-|:---------------------------------------------------------------------------------------------------|:------------|
-| **Student ID:**                                                                                    |             |
-| **Name:**                                                                                          |             |
-| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** |             |
+|:---------------------------------------------------------------------------------------------------|:------------
+| **Student ID:**                                                                                    |      166387       |     
+| **Name:**                                                                                          |    Emmanuel Mwai         |
+| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** |    Executed data download, verified the data quality report, and generated the initial candlestick visualizations.          |
 
 **Member 2**
 
 | **Details**                                                                                        | **Comment** |
 |:---------------------------------------------------------------------------------------------------|:------------|
-| **Student ID:**                                                                                    |             |
-| **Name:**                                                                                          |             |
-| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** |             |
+| **Student ID:**                                                                                    |   154356          |
+| **Name:**                                                                                          |   Nelson Onchuru          |
+| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** |      Designed the Power BI line chart, mapped the timeline, and visualized the 10-90% forecast bounds.       |
 
 **Member 3**
 
 | **Details**                                                                                        | **Comment** |
 |:---------------------------------------------------------------------------------------------------|:------------|
-| **Student ID:**                                                                                    |             |
-| **Name:**                                                                                          |             |
-| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** |             |
+| **Student ID:**                                                                                    |     136261        |
+| **Name:**                                                                                          |    Onyx Courtney         |
+| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** |      Built the walk-forward Ridge regression loop, ensured no look-ahead bias, ran the Diebold-Mariano tests, and diagnosed why the model underperformed.       |
 
 **Member 4**
 
 | **Details**                                                                                        | **Comment** |
 |:---------------------------------------------------------------------------------------------------|:------------|
-| **Student ID:**                                                                                    |             |
-| **Name:**                                                                                          |             |
-| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** |             |
+| **Student ID:**                                                                                    |   147040          |
+| **Name:**                                                                                          |   Imran Hussein Issak         |
+| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** |    Built the Power BI error metrics summary table and drafted the final client verdict.         |
 
 **Member 5**
 
 | **Details**                                                                                        | **Comment** |
 |:---------------------------------------------------------------------------------------------------|:------------|
-| **Student ID:**                                                                                    |             |
-| **Name:**                                                                                          |             |
-| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** |             |
+| **Student ID:**                                                                                    |   157872          |
+| **Name:**                                                                                          |     Bradley Juma        |
+| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** |    Ran ADF/KPSS stationarity tests and established the log-return-to-price forecasting methodology.         |
 
 ## Scenario
 
@@ -178,7 +178,7 @@ For all three tiers, submit the link to a short video (not more than 4 minutes) 
 
 | **Key**                | **Value** |
 |:-----------------------|:----------|
-| **Link to the video:** |           |
+| **Link to the video:** |       https://drive.google.com/file/d/1QCAYe0EDb0hjOEov8cwcQtWgtAXWWBxn/view?usp=sharing    |
 
 ---
 
